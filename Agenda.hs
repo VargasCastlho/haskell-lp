@@ -87,7 +87,6 @@ main = do
  putStrLn ("\n")
  putStrLn (" Nome | Telefone | Endereco | Relacao")
  putStrLn ("_____________________________________")
- --putStrLn ("\n") 
  putStrLn (listar agenda4)
 
  putStrLn ("\nCriando o Arquivo")
